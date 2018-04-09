@@ -1,7 +1,7 @@
 # **[3 proyectos HTML5 y CSS en Dash][1]**
 [1]:[https://dash.generalassemb.ly/]
 -----
-## [**Aprende Javascript con MentoringJS - Pretraining Step 3**](http://MentoringJS.com)
+## **[Aprende Javascript con MentoringJS - Pretraining Step 3](http://MentoringJS.com)**
 
 ----
 

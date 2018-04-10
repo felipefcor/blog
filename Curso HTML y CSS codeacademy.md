@@ -8,7 +8,7 @@ Este [curso](https://www.codecademy.com/en/tracks/web) es apto para la iniciaci�
 
 **Metodología**
 
-+ =>En primer lugar, respecto al curso en sí, la _metodología_ que se usa me parece buena para iniciarse. El curso se divide en secciones en las que hay una parte de teoría y otra de práctica. Fundamentalmente es bastante práctico ya que, a pesar de haber partes teóricas dónde presentan contenido, rápidamente te hacen practicar con el mismo. Además, hay una sección práctica a modo de ejercicio al final de cada sección (hay 3 en HTML y 3 en CSS).<=
++ En primer lugar, respecto al curso en sí, la _metodología_ que se usa me parece buena para iniciarse. El curso se divide en secciones en las que hay una parte de teoría y otra de práctica. Fundamentalmente es bastante práctico ya que, a pesar de haber partes teóricas dónde presentan contenido, rápidamente te hacen practicar con el mismo. Además, hay una sección práctica a modo de ejercicio al final de cada sección (hay 3 en HTML y 3 en CSS).<=
 
 + En segundo lugar, algo significativo es que hasta que no haces los ejercicios prácticos que se te piden, no puedes avanzar en la parte más _teórica_. Eso hace que tengas que ir hacia atrás a repasar y quedarte con la sintaxis concreta o revisar lo que no te acuerdas.
 

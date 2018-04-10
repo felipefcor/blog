@@ -8,7 +8,7 @@ Este [curso](https://www.codecademy.com/en/tracks/web) es apto para la iniciaci�
 
 **Metodología**
 
-=>+ En primer lugar, respecto al curso en sí, la _metodología_ que se usa me parece buena para iniciarse. El curso se divide en secciones en las que hay una parte de teoría y otra de práctica. Fundamentalmente es bastante práctico ya que, a pesar de haber partes teóricas dónde presentan contenido, rápidamente te hacen practicar con el mismo. Además, hay una sección práctica a modo de ejercicio al final de cada sección (hay 3 en HTML y 3 en CSS).
++ =>En primer lugar, respecto al curso en sí, la _metodología_ que se usa me parece buena para iniciarse. El curso se divide en secciones en las que hay una parte de teoría y otra de práctica. Fundamentalmente es bastante práctico ya que, a pesar de haber partes teóricas dónde presentan contenido, rápidamente te hacen practicar con el mismo. Además, hay una sección práctica a modo de ejercicio al final de cada sección (hay 3 en HTML y 3 en CSS).<=
 
 + En segundo lugar, algo significativo es que hasta que no haces los ejercicios prácticos que se te piden, no puedes avanzar en la parte más _teórica_. Eso hace que tengas que ir hacia atrás a repasar y quedarte con la sintaxis concreta o revisar lo que no te acuerdas.
 
@@ -43,6 +43,6 @@ Sobre el _contenido_, he reforzado todos los apartados, desde los selectores má
 
 A nivel de sintaxis CSS no es demasiado complicado, al menos a la hora de añadir elementos a estilar. Después, se va complicando cuándo se habla de los hijos de elementos, de los elementos en cascada; cuándo se llega a la parte del posicionamiento, que para mi es la más difícil de todas. Esta última parte es la más difícil de entender porque habla de cosas que conceptualmente son dificiles de entender a primera vista. Que por ejemplo todos los elementos HTML tengan ciertas partes por defecto (espacio entre el contenido y el borde, entre el borde y el principio de la página) no es fácil de entender. Al final se va entendiendo aunque necesitas bastante práctica.
 
-En definitiva, CSS es una herramienta con muchas opciones y muy potente. A pesar de ello, no es fácil de dominar y requiere mucha mucha práctica, cosa que espero ir haciendo de aquí en adelante.<=
+En definitiva, CSS es una herramienta con muchas opciones y muy potente. A pesar de ello, no es fácil de dominar y requiere mucha mucha práctica, cosa que espero ir haciendo de aquí en adelante.
 
 ---

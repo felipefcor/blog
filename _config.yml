@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 
-name: Felipe Fernández
+title: Felipe Fernández
+email: felipefcor@gmail.com
 markdown: kramdown
+
+baseurl: /blog

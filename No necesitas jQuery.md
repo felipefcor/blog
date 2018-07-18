@@ -14,14 +14,14 @@ Muchos programadores que han aprendido desarrollo web a través de las lentes de
 
 Eso no podría estar más lejos de la realidad. Todo el trabajo pesado lo hace el navegador vía el objeto _XMLHttpRequest_. El ajax de jQuery simplemente se envuelve en el _XMLHttpRequest_. Las peticiones ajax no son muy difíciles si se usa el soporte que hay en el navegador, como verás en un momento. Incluso las peticiones de origen-cruzado son simples.
 
-+ #### Getting
++ #### GETting
 + #### POSTing
 + #### Codificar URLs
 + #### JSON
 
 
 <br>
-#### **1. GETting**
+####  **1. GETting**
 
 
 Empecemos con una conocida pero simple petición. Necesitamos preguntar al servidor por el nombre de una persona, y dar a esa persona única un ID. Ese ID único debe ser incluido como parámetro en la consulta en la URI, con una carga útil vacía, como es común para las peticiones _get_. Se debe generar una alerta con el nombre del usuario o un error si la petición falla.

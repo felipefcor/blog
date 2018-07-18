@@ -8,16 +8,16 @@
 Esto es una traducción del artículo [You Don't Need jQuery!](https://blog.garstasio.com/you-dont-need-jquery/about/) de Ray Nicholus.
 
 
-#### **Peticiones ajax**
+####**Peticiones ajax**
 
 Muchos programadores que han aprendido desarrollo web a través de las lentes de jQuery probablemente piensan que jQuery está haciendo algo mágico cuando se invoca al método _$.ajax_.
 
 Eso no podría estar más lejos de la realidad. Todo el trabajo pesado lo hace el navegador vía el objeto _XMLHttpRequest_. El ajax de jQuery simplemente se envuelve en el _XMLHttpRequest_. Las peticiones ajax no son muy difíciles si se usa el soporte que hay en el navegador, como verás en un momento. Incluso las peticiones de origen-cruzado son simples.
 
-+ [GETting](#### **1. _get_ting**)
-+ [POSTing](#### **1. POSTing**)
-+ [Codificar URLs](#### **3. Codificar URLs**)
-+ [JSON](#### **4. JSON**)
++ ####Getting
++ ####POSTing
++ ####Codificar URLs
++ ####JSON
 
 
 <br>

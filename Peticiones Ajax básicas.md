@@ -1,6 +1,6 @@
 ## **Peticiones Ajax básicas**
 -----
-### [**Aprende Javascript con MentoringJS - Step 7 **](http://MentoringJS.com)
+### **[Aprende Javascript con MentoringJS - Step 7](http://MentoringJS.com)**
 
 <br>
 Esto es una traducción de un [artículo de David Walsh](https://davidwalsh.name/XMLHttpRequest) acerca de este tipo de peticiones.

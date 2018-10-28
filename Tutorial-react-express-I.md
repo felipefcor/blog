@@ -117,7 +117,7 @@ render(element, node)
 
 
 <br>
-**2. DOM Components** <a name="id2"></a>
+**2. DOM Components**<a name="id2"></a>
 
 ```
 import React from 'react'
@@ -143,7 +143,7 @@ Este ejemplo solo cambia del anterior en el contenido de la variable _element_.
 En el _div_ se añaden diversas etiquetas HTML como _input_, _select_ o _img_ para añadir contenido, bien sea para añadir texto, seleccionar varias opciones o añadir una imagen.
 
 <br>
-**3. Custom Components** <a name="id3"></a>
+**3. Custom Components**<a name="id3"></a>
 
 ```
 import React, { Component } from 'react'
@@ -206,7 +206,7 @@ El valor que recibirá el color de fondo de la clase se le pasa en la variable _
 
 
 <br>
-**4. Component API** <a name="id4"></a>
+**4. Component API**<a name="id4"></a>
 
 ```
 import React, { Component } from 'react'
@@ -331,7 +331,7 @@ render(<App />, document.querySelector('#app'))
 
 
 <br>
-**5. Inline Styles** <a name="id5"></a>
+**5. Inline Styles**<a name="id5"></a>
 
 ```
 import React, { Component } from 'react'
@@ -452,7 +452,7 @@ Al final se renderiza este componente _App_.
 
 
 <br>
-**6. CSS-in-JS** <a name="id6"></a>
+**6. CSS-in-JS**<a name="id6"></a>
 ```
 import React, { Component } from 'react'
 import { render } from 'react-dom'
@@ -496,7 +496,6 @@ class App extends Component {
 }
 
 render(<App />, document.querySelector('#app'))
-
 ```
 
 Este ejemplo tiene casi el mismo código que el anterior, exceptuando lo que hace referencia a los estilos que lo hace con una sintaxis diferente.

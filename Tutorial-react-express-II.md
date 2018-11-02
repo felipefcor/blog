@@ -22,6 +22,7 @@ Esta es la segunda parte de mi revisión del tutorial de [react-express](http://
 14.[Refs and the DOM](#id14)<br>
 
 <br>
+
 **7. Event Handling I**<a name="id7"></a>
 
 ```
@@ -61,7 +62,9 @@ Al final se renderiza el componente _CounterButton_.
 [Volver al Índice](#idindex)
 
 <br>
+
 **8. Event Handling II**<a name="id8"></a>
+
 ```
 import React, { Component } from 'react'
 import { render } from 'react-dom'
@@ -100,6 +103,7 @@ Por último, en el _return_, el evento _onClick_ llama a la función _handleClic
 [Volver al Índice](#idindex)
 
 <br>
+
 **9. Custom Components and Events**<a name="id9"></a>
 
 ```
@@ -252,6 +256,7 @@ En el _return_ se añade código JSX con un _label_ y un _input_ que es dónde i
 [Volver al Índice](#idindex)
 
 <br>
+
 **11. Conditional Rendering I y II**<a name="id11"></a>
 
 En este ejemplo se muestra cómo trabajar con condicionales en React.
@@ -371,9 +376,11 @@ En este caso, se renderiza el subtítulo si existe y si no existe se le pasa _No
 [Volver al Índice](#idindex)
 
 <br>
+
 **12. Conditional Rendering III**<a name="id12"></a>
 
 El último caso de condicionales es con un _if/else_.
+
 ```
 import React, { Component } from 'react'
 import { render } from 'react-dom'
@@ -507,6 +514,7 @@ class App extends Component {
 [Volver al Índice](#idindex)
 
 <br>
+
 **13. Lists and Keys**<a name="id13"></a>
 
 A cada componente se le puede pasar una _prop_ especial llamada _key_. React utiliza dicha _key_ para determinar la identidad del elemento renderizado.
@@ -598,6 +606,7 @@ El resultado sería:
 [Volver al Índice](#idindex)
 
 <br>
+
 **14. Refs and the DOM**<a name="id14"></a>
 
 A veces cuando trabajas con React es necesario acceder directamente a los nodos del DOM subyacentes que renderizas, ya que es posible que se quiera medir un nodo o tener la posición de scroll. O incluso es posible que se necesite interactuar con una librería diferente que modifica directamente el DOM. React proporciona una solución para esto con la _prop_ llamada _ref_.
@@ -681,6 +690,7 @@ const styles = {
 
 render(<Card />, document.querySelector('#app'))
 ```
+
 El funcionamiento general de este ejemplo es que, después del primer renderizado, se guarda el inicial _width_ y _height_ con _setState_. Esto hace disparar una segunda renderización que muestra estas dos características lo que cambiará el valor de ambas de nuevo. Ese cambio lanza una tercera renderización que mostrará el último valor de _width_ y _height_, y con fortuna, no se cambiarán las dimensiones de nuevo. Si así pasase, se podría entrar en un bucle infinito. Para evitar el bucle se añade al ciclo de vida _shouldComponentUpdate_.
 
 [Volver al Índice](#idindex)

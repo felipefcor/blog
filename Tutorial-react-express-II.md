@@ -23,6 +23,7 @@ Esta es la segunda parte de mi revisión del tutorial de [react-express](http://
 
 <br>
 **7. Event Handling I**<a name="id7"></a>
+
 ```
 import React, { Component } from 'react'
 import { render } from 'react-dom'

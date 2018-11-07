@@ -7,7 +7,7 @@ Esta es la tercera parte de mi revisión del tutorial de [react-express](http://
 
 [La primera parte se puede ver en mi blog](https://felipefcor.github.io/2018-10-26-Tutorial-React-express(I)).
 
-[La primera parte se puede ver en mi blog]((https://felipefcor.github.io/2018-11-01-Tutorial-React-express(II))
+[La primera parte se puede ver en mi blog](https://felipefcor.github.io/2018-11-01-Tutorial-React-express(II))
 
 
 ### Índice de ejercicios<a name="idindex"></a>
@@ -19,6 +19,7 @@ Esta es la tercera parte de mi revisión del tutorial de [react-express](http://
 
 
 <br>
+
 **15. Component State (ToDo-List)**
 
 Almacenar información en el _state_ de los componentes está bien para aplicaciones pequeñas y también para porciones de aplicaciones independientes del resto de la aplicación. La mejora manera de crear componentes es agruparlos en dos categorías: _containers_ y _componentes_.

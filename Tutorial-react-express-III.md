@@ -7,7 +7,7 @@ Esta es la tercera parte de mi revisión del tutorial de [react-express](http://
 
 [La primera parte se puede ver en mi blog](https://felipefcor.github.io/2018-10-26-Tutorial-React-express(I)).
 
-[La primera parte se puede ver en mi blog](https://felipefcor.github.io/2018-11-01-Tutorial-React-express(II))
+[La segunda parte se puede ver en mi blog](https://felipefcor.github.io/2018-11-01-Tutorial-React-express(II))
 
 
 ### Índice de ejercicios<a name="idindex"></a>

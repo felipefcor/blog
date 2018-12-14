@@ -1,4 +1,4 @@
-# **Prototipado de mi proyecto con React**
+# **Prototipado de mi proyecto con React I**
 -----
 ### [Aprende Javascript con MentoringJS - Step 11 ](http://MentoringJS.com)
 

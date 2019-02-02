@@ -8,6 +8,12 @@ El resultado se puede ver desplegado en surge:
 
 [http://react-gallery.surge.sh](http://react-gallery.surge.sh/)
 
+También se puede acceder a mi repositorio para ver el código:
+
+[Repostiorio con el código de la galería de imágenes](https://github.com/felipefcor/Image-gallery-with-React)
+
+
+
 Para realizar esta galería de imágenes con React me he basado en el [tutorial de Alex Devero](https://www.linkedin.com/pulse/learn-react-practice-create-stunning-image-gallery-alex-devero/). En este artículo voy a intentar diseccionar dicho artículo y explicar qué he modificado y cómo lo he hecho para crear mi propia galería de imágenes con React.
 
 ---

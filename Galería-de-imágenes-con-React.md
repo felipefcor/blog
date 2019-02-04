@@ -8,19 +8,17 @@ El resultado se puede ver desplegado en surge:
 
 [http://react-gallery.surge.sh](http://react-gallery.surge.sh/)
 
-También se puede acceder a mi repositorio para ver el código:
-
 [Repostiorio con el código de la galería de imágenes](https://github.com/felipefcor/Image-gallery-with-React)
-
-
 
 Para realizar esta galería de imágenes con React me he basado en el [tutorial de Alex Devero](https://www.linkedin.com/pulse/learn-react-practice-create-stunning-image-gallery-alex-devero/). En este artículo voy a intentar diseccionar dicho artículo y explicar qué he modificado y cómo lo he hecho para crear mi propia galería de imágenes con React.
 
 ---
 
-En primer lugar, voy a intentar explicar cómo he intentado llevar a cabo el _tutorial_ del artículo antes mencionado. En ese artículo la composición de la galería se hace con un index.html, un index.js y un style.css. Además de estos archivos, se llama a las librerías correspondientes (Bootstrap, FontAwesome, React). En principio con esta configuración la galería debería funcionar. Yo hice la primera versión tal y como ponía en el artículo pero nunca me llegó a funcionar. El motivo por el cuál no me funcionó no lo acabe de descubrir, aunque probablemente fuese por las versiones antiguas de las librerías.
+En primer lugar, voy a intentar explicar cómo he intentado llevar a cabo el _tutorial_ antes mencionado. En ese artículo la composición de la galería se hace con un index.html, un index.js y un style.css. Además de estos archivos, se llama a las librerías correspondientes (Bootstrap, FontAwesome, React). En principio con esta configuración la galería debería funcionar. Yo hice la primera versión tal y como ponía en el artículo pero nunca me llegó a funcionar. El motivo por el cuál no me funcionó no lo acabé de descubrir, aunque probablemente fuese por las versiones antiguas de las librerías.
+> Actualización 4/2/18: Muy probablemente el motivo por el cuál no llegó a funcionar la primera versión fue porque no configuré Babel correctamente. En el artículo original se indica que se va a utilizar dicho transpilador, aunque no dice cómo.
 
-En cualquier caso, tomé la decisión de realizar este proyecto con las herramientas nativas de React y utilicé [Create-react-app](https://github.com/facebook/create-react-app). Además, intenté aprovechar la ocasión para utilizar la estructura del proyecto que [revisé en un artículo anterior](https://felipefcor.github.io/2019-01-17-React-desde-dentro/) y también intentar _refactorizar_ el código con algunas modificaciones típicas de ES6 que [también revisé en otro artículo](https://felipefcor.github.io/2019-01-21-Javascript-moderno-ES6/). Esta última parte no he tenido que modificarla mcuho ya que la gran parte del código estaba en ES6. De todos modos, como el artículo es bastante antiguo, sí que he podido hacer algunos pequeños cambios que me han parecido interesantes y me han servido de aprendizaje.
+En cualquier caso, tomé la decisión de realizar este proyecto con las herramientas nativas de React y utilicé [Create-react-app](https://github.com/facebook/create-react-app). Además, intenté aprovechar la ocasión para utilizar la estructura del proyecto que [revisé en un artículo anterior](https://felipefcor.github.io/2019-01-17-React-desde-dentro/) y también intentar _refactorizar_ el código con algunas modificaciones típicas de ES6 que [también revisé en otro artículo](https://felipefcor.github.io/2019-01-21-Javascript-moderno-ES6/). Esta última parte no he tenido que modificarla mucho ya que la gran parte del código estaba en ES6. De todos modos, como el artículo es bastante antiguo, sí que he podido hacer algunos pequeños cambios que me han parecido interesantes y me han servido de aprendizaje.
+
 
 ---
 

@@ -85,8 +85,8 @@ api().then(function(result){
     return api2();    
 }).then(function(result2){
     return api3();
-}).catch((err)=>{{
-     // do work
+}).catch((err)=>{
+  return something    
 });
 ```
 En este caso, la _api_ sería _fetch_.
